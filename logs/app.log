@@ -1,0 +1,33 @@
+2026-02-06 00:43:43.520 [main] WARN  o.t.x.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\eclipse_new_workspace\facebook_login\master.xml] otherwise TestNG may fail or not work as expected.
+2026-02-06 00:43:43.961 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\eclipse_new_workspace\facebook_login\master.xml
+
+2026-02-06 00:43:52.995 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:43:52.997 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:43:53.059 [main] INFO  t.TC_Login - Entering username
+2026-02-06 00:43:57.000 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:43:57.005 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:43:57.008 [main] INFO  t.TC_Login - Entering username
+2026-02-06 00:44:00.475 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:44:00.475 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:44:00.475 [main] INFO  t.TC_Login - Entering username
+2026-02-06 00:44:47.990 [main] WARN  o.t.x.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\eclipse_new_workspace\facebook_login\master.xml] otherwise TestNG may fail or not work as expected.
+2026-02-06 00:44:48.339 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\eclipse_new_workspace\facebook_login\master.xml
+
+2026-02-06 00:44:52.343 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:44:52.343 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:44:52.426 [main] INFO  t.TC_Login - Entering username
+2026-02-06 00:44:55.887 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:44:55.887 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:44:55.889 [main] INFO  t.TC_Login - Entering username
+2026-02-06 00:44:59.910 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:44:59.913 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:44:59.921 [main] INFO  t.TC_Login - Entering username
+2026-02-06 00:46:20.481 [main] WARN  o.t.x.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\eclipse_new_workspace\facebook_login\master.xml] otherwise TestNG may fail or not work as expected.
+2026-02-06 00:46:20.928 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\eclipse_new_workspace\facebook_login\master.xml
+
+2026-02-06 00:46:33.775 [main] INFO  t.TC_Login - ********* Test Started: loginTest **********
+2026-02-06 00:46:33.776 [main] INFO  t.TC_Login - Launching browser
+2026-02-06 00:46:33.820 [main] INFO  t.TC_Login - Entering username

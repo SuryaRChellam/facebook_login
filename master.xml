@@ -1,0 +1,13 @@
+<suite name="Automation Suite">
+
+    <listeners>
+        <listener class-name="utilities.reports"/>
+    </listeners>
+
+     <test name="All Test Cases">
+        <packages>
+            <package name="test_Cases"/>
+        </packages>
+    </test>
+
+</suite>
